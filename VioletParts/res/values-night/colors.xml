@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2019 Havoc-OS
+<!--
+     Copyright (C) 2020 ColtOS Project
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
@@ -10,13 +11,9 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+<resources>
 
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
-    <color name="disabled_text_color">#66000000</color>
-
-    <color name="homepage_parts_background">#FF6700</color>
-
-    <color name="device_settings_colt_bg">#f7f7f7</color>
+    <!-- Violet Parts -->
+    <color name="device_settings_colt_bg">#202124</color>
 
 </resources>
